@@ -6,7 +6,7 @@ As a highly motivated Robotics and Automatic Control Master's student in Poland,
 
 ## Skills: C / Python / BASH-Scripting / MATLAB 
 
-🚀 Check out my coding projects on [GitHub](https://github.com/irfanali1995/IrfanAli-CodingProjects.git) 😃
+🚀 Check out my coding projects on [GitHub]([https://github.com/irfanali1995/IrfanAli-CodingProjects.git](https://github.com/irfanali1995?tab=repositories)https://github.com/irfanali1995?tab=repositories) 😃
 
 
 
